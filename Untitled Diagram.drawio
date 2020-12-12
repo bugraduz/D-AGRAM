@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T13:35:35.827Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="9hxQTG6qR1BEZhwlTE6v" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-12T13:36:11.964Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ZbpiJVguPujuxkAUvEjj" version="14.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1426" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,13 +28,13 @@
         <mxCell id="Exdp0D_Jqlo79DNGX629-5" value="MPX5700-DP" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="320" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Exdp0D_Jqlo79DNGX629-6" value="GP 12VOLT&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Exdp0D_Jqlo79DNGX629-6" value="GP 12VOLT&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="510" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Exdp0D_Jqlo79DNGX629-7" value="GP 12VOLT&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="510" width="120" height="30" as="geometry" />
+        <mxCell id="Exdp0D_Jqlo79DNGX629-7" value="GP 12VOLT BACKUP&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="655" y="505" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Exdp0D_Jqlo79DNGX629-8" value="GP 12VOLT&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Exdp0D_Jqlo79DNGX629-8" value="GP 12VOLT&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="510" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Exdp0D_Jqlo79DNGX629-10" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Exdp0D_Jqlo79DNGX629-6" target="Exdp0D_Jqlo79DNGX629-3">
